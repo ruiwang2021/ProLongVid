@@ -8,7 +8,6 @@ Annotations and videos have been uploaded to [huggingface](https://huggingface.c
 
 | **Model**                          | **Huggingface** |
 |-----------------------------------|------------------|
-| LLM-256K (From Qwen2.5-7B-Instruct) | https://huggingface.co/prolongvid/Qwen2.5-7B-Instruct-256K |
 | Image-SFT-7B | https://huggingface.co/prolongvid/prolongvid_image_sft_7B |
 | ProLongVid-Stage-1-7B | https://huggingface.co/prolongvid/prolongvid_stage1_7B |
 | ProLongVid-Stage-2-7B | https://huggingface.co/prolongvid/prolongvid_stage2_7B |
