@@ -2,7 +2,7 @@
 
 ## Datasets
 
-Most annotations have been uploaded to [huggingface](https://huggingface.co/datasets/prolongvid/ProLongVid_data). We are uploading videos...
+Annotations and videos have been uploaded to [huggingface](https://huggingface.co/datasets/prolongvid/ProLongVid_data). 
 
 ## Models
 
