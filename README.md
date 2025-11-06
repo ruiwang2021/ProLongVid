@@ -12,7 +12,7 @@ Annotations and videos have been uploaded to [huggingface](https://huggingface.c
 | Image-SFT-7B | Coming soon! |
 | ProLongVid-Stage-1-7B | Coming soon! |
 | ProLongVid-Stage-2-7B | Coming soon! |
-| ProLongVid-Stage-3-7B | Coming soon! |
+| ProLongVid-Stage-3-7B | https://huggingface.co/prolongvid/prolongvid_7B |
 
 ## Contact
 
